@@ -1,5 +1,5 @@
-# CISC3003-Group-Project
-# Travel Web Group Project README
+
+# README
 
 
 ## Introduction
